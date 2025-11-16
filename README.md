@@ -1,29 +1,55 @@
 Privacy Policy for Trivia Ladder
 
-Effective Date: September 10, 2025
+Effective Date: October 16, 2025
 
-Thank you for choosing Trivia Ladder, developed by Divine Creations. Your privacy is important to us. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information when you use our mobile application.
+Thank you for choosing Trivia Ladder, developed by Divine Creations.
+Your privacy is important to us. This Privacy Policy explains how our app handles information when you use it.
 
-1.  **No Data Collection**
-    We do not collect, store, or share any personally identifiable information from our users. This includes, but is not limited to:
-    *   Name
-    *   Email address
-    *   Phone number
-    *   Physical address
-    *   Location (GPS)
-    *   Device identifiers
+1. Information We Collect
 
-2.  **Permissions**
-    Trivia Ladder does not request access to your device's sensitive information or features, such as your contacts, camera, or microphone.
+Trivia Ladder itself does not collect any personally identifiable information.
 
-3.  **Advertising**
-    This version of Trivia Ladder does not contain any third-party advertisements. If we decide to include ads in a future update, this privacy policy will be revised accordingly.
+However, the app uses Google AdMob to display advertisements.
+AdMob may automatically collect certain data for ad delivery and analytics, including:
 
-4.  **Children's Privacy**
-    Our application is designed to be family-friendly. We do not knowingly collect any personal information from children under the age of 13. If you believe we have inadvertently collected such information, please contact us so we can promptly remove it.
+Device information (mobile device identifiers, such as Android Advertising ID)
 
-5.  **Changes to This Privacy Policy**
-    We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the app and/or on our store listing.
+Approximate location
 
-6.  **Contact Us**
-    If you have any questions or concerns about this Privacy Policy, please feel free to contact us at: **developper2025@gmail.com** (replace with a real contact email you can monitor).
+App interactions and usage data
+
+Diagnostic information (crash logs, performance data)
+
+This data is processed according to Google’s Privacy Policy:
+https://policies.google.com/privacy
+
+We do not have access to, store, or manage this data.
+
+2. Third-Party Advertising
+
+Trivia Ladder displays ads using Google AdMob.
+AdMob may personalize or show non-personalized ads based on your device settings.
+
+You can manage ad personalization in your device’s Google Settings.
+
+3. Children’s Privacy
+
+Trivia Ladder is not directed to children under 13.
+We do not knowingly collect personal information from children.
+
+If you believe a child has provided any information unknowingly, please contact us and we will take appropriate action.
+
+4. Permissions
+
+Trivia Ladder does not require access to your camera, contacts, microphone, or other sensitive device features.
+
+5. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+Updates will be posted within the app and/or on the Play Store listing.
+
+6. Contact Us
+
+If you have any questions about this Privacy Policy, contact us at:
+
+📩 developper2025@gmail.com
